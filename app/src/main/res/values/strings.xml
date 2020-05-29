@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Practical Interview</string>
+
+    <string name="ok">Ok</string>
+    <string name="no_connection">No internet Connection</string>
+    <string name="turn_on_connection">Please turn on internet connection to continue</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+
+    <string name="notification_title">Reminder</string>
+    <string name="notification_subtitle">Surprise!</string>
+
+    <string-array name="category">
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Protein</item>
+        <item>Dairy</item>
+        <item>Grains</item>
+        <item>Oils</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>Pending</item>
+        <item>Completed</item>
+        <item>Reschedule</item>
+    </string-array>
+
+</resources>
